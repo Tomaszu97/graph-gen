@@ -1,0 +1,4 @@
+# reproducible networkx graph generator
+To use it just copy this repo content to working directory
+and import (`import graph_gen`).
+Content should be self-explanatory.
